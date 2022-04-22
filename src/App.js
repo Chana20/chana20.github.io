@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './sandra.jpg';
 import './App.css';
 
 function App() {
